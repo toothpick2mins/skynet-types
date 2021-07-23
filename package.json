@@ -1,0 +1,27 @@
+{
+  "name": "skynet-types",
+  "version": "1.0.0",
+  "description": "TypeScript definitions for skynet standard library",
+  "main": "index.d.ts",
+  "files": [
+    "**/*.d.ts"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toothpick2mins/skynet-types"
+  },
+  "keywords": [
+    "skynet",
+    "typescript",
+    "tstl"
+  ],
+  "author": "toothpick2mins",
+  "license": "MIT",
+  "dependencies": {
+    "typescript-to-lua": "^0.39.0"
+  },
+  "homepage": "https://github.com/toothpick2mins/skynet-types#readme"
+}
